@@ -1,3 +1,3 @@
 # hello-world
-My First Github Project!
+My First Github!
 I'm a developer for Android!
